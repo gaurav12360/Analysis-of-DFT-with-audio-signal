@@ -1,6 +1,6 @@
 # EXP 1 :  ANALYSIS OF DFT WITH AUDIO SIGNAL
-## PRATHEESH G
-## 212223060205
+## GAURAV CHEZHIAN N
+## 212223060065
 # AIM: 
 To analyze audio signal by removing unwanted frequency. 
 
